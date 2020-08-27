@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JokenPo</string>
+    <string name="Title">Choice of App</string>
+    <string name="Panel">Match Result</string>
+    <string name="ImageSelection">ImageSelection</string>
+</resources>
